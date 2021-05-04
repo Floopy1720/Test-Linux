@@ -1,2 +1,2 @@
 # Test-Linux
-just a testing
+Learning Github cli in linux
